@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="1.css"?>
+
+<person> 
+  <p1 id="aaaa"> 
+    <name>wu</name>  
+    <school>ecit</school>  
+    <school>ecit</school>  
+    <age>300</age>  
+    <sex>nv</sex>  
+    <sex>nv</sex> 
+  </p1>  
+  <p1> 
+    <name>zhong</name>  
+    <age>30</age> 
+  </p1> 
+</person>
